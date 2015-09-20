@@ -1,0 +1,201 @@
+.right p {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 2%;
+	font-family: "Century Gothic";
+	font-size:80%;
+	text-align: justify;
+	color: #000000;
+}
+
+li {
+	list-style-type: square;
+	margin-left: 10%;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+.div_principal {
+	position: fixed !important;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+.left {
+	position: absolute;
+	float: left;
+	margin-top: 0.5%;
+	width: 30%;
+	height: 97%;
+	background-color: #F0F0F0;
+	margin-bottom: 1%;
+	box-shadow: 7px 0px 0px #DFDEDE;
+	border-radius: 5px;
+}
+
+.right {
+	position: sticky;
+	float: right;
+	margin-top: 0.5%;
+	width: 69.5%;
+	height: 97%;
+	background-color: #FFFFFF;
+	margin-bottom: 1%;
+	box-shadow: inset 10px 0px 0px #D3D3D3;
+	overflow: scroll;
+    overflow-x: hidden;
+}
+
+.titulo {
+	border-radius: 4px;
+    color: #fff;
+    display: inline-block;
+    font-family: "Century Gothic";
+    font-size: 91%;
+    font-weight: 700;
+    height: 7%;
+    letter-spacing: normal;
+    line-height: 0;
+    margin-left: -5px;
+    padding: 0 5%;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 35%;
+}
+
+.nombre {
+	font-family: 'Century Gothic';
+	font-size: 238%;
+	width: 45%;
+	margin-left: 45%;
+}
+
+.profesion {
+	font-family: "Century Gothic";
+    font-size: 90%;
+    font-weight: 500;
+    margin-left: 45%;
+    margin-top: -6%;
+    text-align: unset;
+    width: 45%;
+}
+
+.marco {
+	background-color: #ffffff;
+    border-radius: 3px;
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.15);
+    float: left;
+    margin: 3% 25px 10px 45%;
+    padding: 5px;
+}
+
+img {
+	width: 45%;
+}
+
+.datos_personales {
+	height: 40%;
+    margin-left: 45%;
+    margin-right: 5%;
+    margin-top: 50%;
+    position: absolute;
+    width: 50%;
+}
+
+.datos_personales_titulo {
+	float: left;
+	font-family: "Century Gothic";
+	font-weight: bold;
+	font-size: 140%;
+	height: 20%;
+	line-height: 370%;
+	margin-top: 0;
+	position: relative;
+	width: 100%;
+}
+
+.datos_personales_dato {
+	font-family: Century Gothic;
+	font-size: 90%;
+	position: relative;
+	height: 0%;
+}
+
+.formacion_academica {
+	margin-left: 5%;
+	margin-bottom: 3%;
+    width: 100%;
+}
+
+.formacion_academica h3 {
+	color: #282828;
+    font-family: "Century Gothic";
+    font-size: 105%;
+    font-weight: bolder;
+    margin-left: 5%;
+    margin-top: -2%;
+    width: 100%;
+}
+
+
+.formacion_academica h4 {
+	color: #716e6e;
+    font-family: Lucida Grande;
+    font-weight: bolder;
+    height: 10px;
+    margin-left: 5%;
+    width: 100%;
+    margin-top: 2%;
+}
+
+.formacion_academica p {
+	font-family: "Century Gothic";
+    font-size: 90%;
+    margin-left: 5%;
+    margin-top: -2%;
+    margin-right: 15%;
+	
+}
+
+.experiencia_laboral {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 2%;
+	width: inherit;
+}
+
+.experiencia_laboral h3 {
+	color: #282828;
+    font-family: "Century Gothic";
+    font-size: 105%;
+    font-weight: bolder;
+    width: -moz-max-content;
+}
+
+.experiencia_laboral h2 {
+	color: #716e6e;
+    float: right;
+    font-family: Trebuchet MS;
+    font-size: 90%;
+    margin-top: -5%;
+    position: relative;
+    width: -moz-max-content;
+}
+
+.experiencia_laboral p {
+	margin-left: auto;
+	margin-right: auto;
+    margin-top: -3%;
+    margin-bottom: 5%;
+}
+
+.experiencia_laboral ul {
+	margin-left: auto;
+	margin-right: -15%;
+    margin-top: -3%;
+}   
