@@ -72,14 +72,14 @@ a:hover {
 	font-family: 'Century Gothic';
 	font-size: 238%;
 	width: 45%;
-	margin-left: 45%;
+	margin-left: 40%;
 }
 
 .profesion {
 	font-family: "Century Gothic";
     font-size: 90%;
     font-weight: 500;
-    margin-left: 45%;
+    margin-left: 40%;
     margin-top: -6%;
     text-align: unset;
     width: 45%;
@@ -90,7 +90,7 @@ a:hover {
     border-radius: 3px;
     box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.15);
     float: left;
-    margin: 3% 25px 10px 45%;
+    margin: 3% 25px 10px 40%;
     padding: 5px;
 }
 
@@ -100,7 +100,7 @@ img {
 
 .datos_personales {
 	height: 40%;
-    margin-left: 45%;
+    margin-left: 40%;
     margin-right: 5%;
     margin-top: 50%;
     position: absolute;
