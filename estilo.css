@@ -129,7 +129,7 @@ img {
 .formacion_academica {
 	margin-left: 5%;
 	margin-bottom: 3%;
-    width: 100%;
+    width: 80%;
 }
 
 .formacion_academica h3 {
@@ -138,6 +138,7 @@ img {
     font-size: 105%;
     font-weight: bolder;
     margin-left: 5%;
+    margin-right: 5%;
     margin-top: -2%;
     width: 100%;
 }
