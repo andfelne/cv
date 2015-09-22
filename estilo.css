@@ -44,7 +44,7 @@ a:hover {
 	margin-top: 0.5%;
 	width: 69.5%;
 	height: 97%;
-	background-color: #FFFFFF;
+	background-color: #D8F6CE;
 	margin-bottom: 1%;
 	box-shadow: inset 10px 0px 0px #D3D3D3;
 	overflow: scroll;
@@ -113,7 +113,7 @@ img {
 	font-weight: bold;
 	font-size: 140%;
 	height: 20%;
-	line-height: 370%;
+	line-height: 250%;
 	margin-top: 0;
 	position: relative;
 	width: 100%;
@@ -141,6 +141,7 @@ img {
     margin-right: 5%;
     margin-top: -2%;
     width: 100%;
+    float: left;
 }
 
 
@@ -151,7 +152,8 @@ img {
     height: 10px;
     margin-left: 5%;
     width: 100%;
-    margin-top: 2%;
+    margin-top: 5%;
+    float: right;
 }
 
 .formacion_academica p {
@@ -159,6 +161,8 @@ img {
     font-size: 90%;
     margin-left: 5%;
     margin-top: -2%;
+    float:left;
+    width: 100%;
     margin-right: 15%;
 	
 }
